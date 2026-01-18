@@ -1,0 +1,1 @@
+## Plugins de exemplo para o app Tale Architect
