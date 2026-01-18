@@ -1,0 +1,7 @@
+{
+  "id": "instant-npc",
+  "name": "Instant NPC",
+  "version": "1.0",
+  "description": "Plugin para gerar NPCs",
+  "main": "index.js"
+}

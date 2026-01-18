@@ -1,0 +1,7 @@
+{
+  "id": "copy-project",
+  "name": "Copy Project",
+  "version": "1.0",
+  "description": "Ferramenta que copia para sua área de transferência um resumo formatado em markdown do seu projeto",
+  "main": "index.js"
+}

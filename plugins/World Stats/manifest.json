@@ -1,0 +1,7 @@
+{
+  "id": "world-stats",
+  "name": "World Stats",
+  "version": "1.0",
+  "description": "Plugin para mostrar dados do projeto.",
+  "main": "index.js"
+}

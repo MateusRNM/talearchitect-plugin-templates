@@ -1,0 +1,7 @@
+{
+  "id": "born-events",
+  "name": "Born Events",
+  "version": "1.0",
+  "description": "Plugin para criar eventos de nascimento automaticamente",
+  "main": "index.js"
+}
