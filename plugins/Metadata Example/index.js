@@ -4,5 +4,5 @@ async function init(app) {
         data: "data"
     });
     const retrievedData = await app.metadata.get(id);
-    setTimeout(() => app.ui.toast(`Metadado recuperado: ${retrievedData.data}`, "info"), 2000);
+    app.ui.toast(`Metadado recuperado: ${retrievedData.data}`, "info", 5000);
 }
