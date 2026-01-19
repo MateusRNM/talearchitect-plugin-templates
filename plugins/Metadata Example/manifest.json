@@ -1,0 +1,7 @@
+{
+  "id": "metadata-example",
+  "name": "Metadata Example",
+  "version": "1.0",
+  "description": "Plugin de exemplo de uso do metadata.",
+  "main": "index.js"
+}

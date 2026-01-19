@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "checkJs": true
+  },
+  "include": [
+    "node_modules/talearchitect-api/index.d.ts",
+    "**/*.js"
+  ]
+}
